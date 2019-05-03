@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/awesome-br/awesome-br.github.io#readme",
   "dependencies": {
-    "http-server": "^0.8.5"
+    "http-server": "^0.10.0"
   },
   "devDependencies": {
     "jlint": "^3.0.2",
